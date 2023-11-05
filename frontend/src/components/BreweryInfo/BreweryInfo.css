@@ -1,0 +1,34 @@
+.details-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-top: 100px;
+}
+
+.phone {
+  margin-bottom: 10px;
+}
+
+.website-url {
+  margin-top: 10px;
+}
+.review-container {
+  border: 1px solid rgb(199, 199, 199);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rating {
+  display: flex;
+  gap: 10px;
+}
+
+.info-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

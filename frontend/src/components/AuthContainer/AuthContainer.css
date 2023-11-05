@@ -1,0 +1,15 @@
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+.container {
+  font-family: "Montserrat", sans-serif;
+  width: 500px;
+  padding: 5em 4em;
+  text-align: center;
+  border-radius: 4px;
+  border: 1px solid #d1d5da;
+}

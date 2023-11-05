@@ -1,0 +1,25 @@
+header {
+  padding: 10px 50px;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.48);
+  -webkit-box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.48);
+  -moz-box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.48);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  /* color: #58acfa; */
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 30px;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+}
+

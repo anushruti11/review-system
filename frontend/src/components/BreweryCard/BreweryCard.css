@@ -1,0 +1,29 @@
+.brewery {
+  font-family: "Montserrat", sans-serif;
+  height: 270px;
+  position: relative;
+}
+
+.brewery-name {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.brewery-url {
+  cursor: pointer;
+}
+
+.card-body {
+  margin-top: 10px;
+}
+
+.brewery-rating {
+  position: absolute;
+  bottom: 10px;
+}
